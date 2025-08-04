@@ -111,7 +111,7 @@ namespace Bilgi_Yarismasi
             this.button5.Location = new System.Drawing.Point(448, 200);
             this.button5.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(139, 113);
+            this.button5.Size = new System.Drawing.Size(161, 113);
             this.button5.TabIndex = 5;
             this.button5.Text = "Sonraki";
             this.button5.UseVisualStyleBackColor = false;
@@ -124,7 +124,7 @@ namespace Bilgi_Yarismasi
             this.label1.Location = new System.Drawing.Point(452, 85);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(100, 27);
+            this.label1.Size = new System.Drawing.Size(126, 34);
             this.label1.TabIndex = 6;
             this.label1.Text = "Soru No:";
             // 
@@ -135,7 +135,7 @@ namespace Bilgi_Yarismasi
             this.label2.Location = new System.Drawing.Point(472, 122);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(80, 27);
+            this.label2.Size = new System.Drawing.Size(102, 34);
             this.label2.TabIndex = 7;
             this.label2.Text = "Doğru:";
             // 
@@ -146,7 +146,7 @@ namespace Bilgi_Yarismasi
             this.label3.Location = new System.Drawing.Point(472, 159);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(79, 27);
+            this.label3.Size = new System.Drawing.Size(100, 34);
             this.label3.TabIndex = 8;
             this.label3.Text = "Yanlış:";
             // 
@@ -154,10 +154,10 @@ namespace Bilgi_Yarismasi
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(552, 85);
+            this.label4.Location = new System.Drawing.Point(578, 86);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(24, 27);
+            this.label4.Size = new System.Drawing.Size(31, 34);
             this.label4.TabIndex = 9;
             this.label4.Text = "0";
             // 
@@ -165,10 +165,10 @@ namespace Bilgi_Yarismasi
             // 
             this.label5.AutoSize = true;
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(552, 122);
+            this.label5.Location = new System.Drawing.Point(578, 125);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(24, 27);
+            this.label5.Size = new System.Drawing.Size(31, 34);
             this.label5.TabIndex = 10;
             this.label5.Text = "0";
             // 
@@ -176,10 +176,10 @@ namespace Bilgi_Yarismasi
             // 
             this.label6.AutoSize = true;
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(552, 159);
+            this.label6.Location = new System.Drawing.Point(578, 159);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(24, 27);
+            this.label6.Size = new System.Drawing.Size(31, 34);
             this.label6.TabIndex = 11;
             this.label6.Text = "0";
             // 
@@ -189,7 +189,7 @@ namespace Bilgi_Yarismasi
             this.label7.Location = new System.Drawing.Point(129, 342);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(71, 27);
+            this.label7.Size = new System.Drawing.Size(94, 34);
             this.label7.TabIndex = 12;
             this.label7.Text = "label7";
             this.label7.Visible = false;
@@ -200,7 +200,7 @@ namespace Bilgi_Yarismasi
             this.label8.Location = new System.Drawing.Point(220, 342);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(71, 27);
+            this.label8.Size = new System.Drawing.Size(94, 34);
             this.label8.TabIndex = 13;
             this.label8.Text = "label8";
             this.label8.Visible = false;
@@ -212,7 +212,7 @@ namespace Bilgi_Yarismasi
             this.panel1.Location = new System.Drawing.Point(13, 13);
             this.panel1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(575, 63);
+            this.panel1.Size = new System.Drawing.Size(596, 63);
             this.panel1.TabIndex = 14;
             // 
             // label9
@@ -222,16 +222,16 @@ namespace Bilgi_Yarismasi
             this.label9.Location = new System.Drawing.Point(185, 13);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(214, 42);
+            this.label9.Size = new System.Drawing.Size(262, 54);
             this.label9.TabIndex = 0;
             this.label9.Text = "Bilgi Yarışması";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 27F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 33F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkRed;
-            this.ClientSize = new System.Drawing.Size(601, 327);
+            this.ClientSize = new System.Drawing.Size(622, 327);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
@@ -248,7 +248,7 @@ namespace Bilgi_Yarismasi
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.button1);
             this.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form1";
             this.Text = "Bilgi Yarışması";
             this.panel1.ResumeLayout(false);
