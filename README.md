@@ -1,6 +1,4 @@
-🎯 Proje Tanımı (Murat Yücedağ tarafından öğrendim)
-
-Eğlenceli ve eğitici bir Bilgi Yarışması Uygulaması! Bu projeyle:
+🎯 Proje Tanımı: Eğlenceli ve eğitici bir Bilgi Yarışması Uygulaması! Bu projeyle:
 
 - Kullanıcılar çeşitli kategorilerde bilgilerini test edebilir.
 
